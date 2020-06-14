@@ -7,7 +7,7 @@ git push -u origin master
 
 To make this DB repo work for your local environment, please follow steps as below.
 
-1. npm install -g jason-server
+1. npm install -g json-server
 
 2. clone this repo to a local directory as: JSON_Server
 
